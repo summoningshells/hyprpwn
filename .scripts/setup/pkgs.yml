@@ -1,0 +1,53 @@
+pacman:
+  - git # basic utils
+  - nvim
+  - wget
+  - curl
+  - alacritty
+  - fastfetch
+  - cava
+  - htop
+  - hyprland #Hyprland stuff
+  - xdg-desktop-portal-hyprland
+  - xdg-desktop-portal-gtk
+  - gvfs
+  - nautilus
+  - xdg-user-dirs
+  - wofi
+  - waybar-cava
+  - swww
+  - hyprpolkitagent
+  - qt5-wayland
+  - qt6-wayland
+  - dunst
+  - grim
+  - slurp
+  - wl-clipboard
+  - hyprlock
+  - brihtnessctl #system utils
+  - ttf-space-mono-nerd
+  - network-manager-applet
+  - pavucontrol
+  - bluez
+  - bluez-utils
+  - blueman
+  - pipewire
+  - wireplumber
+  - pipewire-pulse
+  - zed #Desktop apps
+
+paru:
+  - nwg-look
+  - catppuccin-gtk-theme-macchiato
+  - mullvad-vpn-bin
+  - papirus-folders-catppuccin-git
+flatpak:
+  - app.zen_browser.zen
+  - org.localsend.localsend_app
+  - com.github.tchx84.Flatseal
+  - dev.vencord.Vesktop
+  - md.obsidian.Obsidian
+  - com.synology.SynologyDrive
+  - org.mozilla.Thunderbird
+pipx:
+  - exegol
