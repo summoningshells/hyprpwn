@@ -13,7 +13,12 @@
 !.config/alacritty/**
 !.config/zed/
 !.config/zed/**
+!.config/spicetify/
+!.config/spicetify/**
 !.scripts/
 !.scripts/**
+!.config/btop/
+!.config/btop/**
+!.config/starship.toml
 !README.md
 !.gitignore

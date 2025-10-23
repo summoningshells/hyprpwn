@@ -7,16 +7,15 @@
   "spacing": 4, // Gaps between modules (4px)
   // Choose the order of the modules
   "modules-left": ["custom/arch", "hyprland/workspaces"],
-  "modules-center": ["cava"],
+  "modules-center": [],
   "modules-right": [
     "privacy",
     "tray",
-    "pulseaudio",
+    "wireplumber",
     "cpu",
     "memory",
     "temperature",
     "battery",
-    "battery#bat2",
     "clock"
   ],
   //Modules configuration

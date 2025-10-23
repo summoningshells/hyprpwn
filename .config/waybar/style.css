@@ -1,7 +1,6 @@
 * {
-    /* `otf-font-awesome` and SpaceMono Nerd Font are required to be installed for icons */
     font-family:
-        "Fira Sans Semibold", FontAwesome, Roboto, Helvetica, Arial, sans-serif;
+        "JetBrainsMono Nerd Font";
     font-size: 15px;
     transition: background-color 0.3s ease-out;
 }
@@ -103,10 +102,4 @@ window#waybar {
 }
 #custom-arch:hover {
     color: #1793d1;
-}
-#cava {
-    color: #c0caf5;
-    font-family: "bargraph"; /* You may need to install a font with bar characters */
-    font-size: 20px;
-    /* other styling options */
 }

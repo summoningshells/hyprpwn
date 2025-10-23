@@ -7,6 +7,9 @@ pacman:
   - fastfetch
   - cava
   - htop
+  - mpv
+  - python-pipx
+  - zsh
   - hyprland #Hyprland stuff
   - xdg-desktop-portal-hyprland
   - xdg-desktop-portal-gtk
@@ -49,5 +52,6 @@ flatpak:
   - md.obsidian.Obsidian
   - com.synology.SynologyDrive
   - org.mozilla.Thunderbird
+  - flatpak install flathub me.proton.Mail
 pipx:
   - exegol
