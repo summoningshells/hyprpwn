@@ -15,10 +15,11 @@ Minimalist arch/hyprland dotfiles managed with RAW git and bash scripts
 | Shell       | ZSH                       |
 | Theme       | Catpuccin-macchiato/mocha |
 | Font        | JetBrainsMono Nerd Font   |
-| Menu        | Wofi                      |
+| Menu        | Fuzzel                    |
 | FileManager | Nautilus                  |
 | Browser     | Zen                       |
 | Discord     | Vesktop                   |
+| Spotify     | Spicetify                 |
 # Usage
  Install dependencies via the `.scripts/setup/install.sh` script (only tested on minimal installs)
 
@@ -28,9 +29,9 @@ If you're interested in a theme or specif component just install it and yoink my
 
 - [ ] automate package installation
 - [ ] implement wlogout or wleave
-- [ ] prettify or replace wofi
+- [X] prettify or replace wofi
 - [ ] prettify hyprlock
-- [ ] spotify/music player
-- [ ] satrship
+- [X] spotify/music player
+- [X] satrship
 - [ ] prettify fastfetch
 - [ ] window recording/Capture

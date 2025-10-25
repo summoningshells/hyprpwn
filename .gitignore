@@ -17,6 +17,8 @@
 !.config/spicetify/**
 !.scripts/
 !.scripts/**
+!.config/fuzzel/
+!.config/fuzzel/**
 !.config/btop/
 !.config/btop/**
 !.config/starship.toml
