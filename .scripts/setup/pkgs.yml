@@ -44,8 +44,8 @@ paru:
   - catppuccin-gtk-theme-macchiato
   - mullvad-vpn-bin
   - papirus-folders-catppuccin-git
+  - zen-browser-bin
 flatpak:
-  - app.zen_browser.zen
   - org.localsend.localsend_app
   - com.github.tchx84.Flatseal
   - dev.vencord.Vesktop
