@@ -35,3 +35,4 @@ If you're interested in a theme or specif component just install it and yoink my
 - [X] satrship
 - [ ] prettify fastfetch
 - [ ] window recording/Capture
+# taxi
